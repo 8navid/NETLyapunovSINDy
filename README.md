@@ -30,9 +30,9 @@ scikit-learn>=1.0.0
 
 
 # Run the full pipeline
-python ei_network.py          # Simulate network & save population rate
-python sindy_fit_ei.py        # Discover ODEs using SINDy
-python lyapunov_validation.py # Validate with Lyapunov exponents
+python ei_network.py           Simulate network & save population rate
+python sindy_fit_ei.py         Discover ODEs using SINDy
+python lyapunov_validation.py  Validate with Lyapunov exponents
 
 
 # Discovered ODEs (4-dimensional system)
