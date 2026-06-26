@@ -19,6 +19,7 @@ The pipeline discovers governing ODEs from neural data and classifies the brain 
 
 
 # Install dependencies
+```bash
 netpyne>=1.0.0
 neuron>=8.0.0
 numpy>=1.20.0
@@ -27,6 +28,7 @@ matplotlib>=3.4.0
 pysindy>=1.7.0
 nolds>=0.5.2
 scikit-learn>=1.0.0
+```bash
 
 
 # Run the full pipeline
