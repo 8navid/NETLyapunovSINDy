@@ -38,6 +38,7 @@ python lyapunov_validation.py # Validate with Lyapunov exponents
 
 
 # Discovered ODEs (4-dimensional system)
+```python
 x0' = -0.154 x0 - 1.774 x1 + 2.072 x2 - 0.146 x3 
     + 0.902 x0² - 5.714 x0x1 + 6.499 x0x2 - 3.241 x0x3
     + 4.215 x1² - 8.631 x1x2 + 7.099 x1x3
@@ -57,5 +58,6 @@ x3' = 0.034 x0 - 0.833 x1 + 1.125 x2 - 0.319 x3
     + 0.098 x0² - 1.739 x0x1 + 2.449 x0x2 - 1.117 x0x3
     + 1.263 x1² - 3.554 x1x2 + 2.648 x1x3
     + 3.092 x2² - 4.780 x2x3 + 1.635 x3²
+```
 
 #provided by 8navid@gmail.com
