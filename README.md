@@ -35,7 +35,7 @@ python sindy_fit_ei.py        # Discover ODEs using SINDy
 python lyapunov_validation.py # Validate with Lyapunov exponents
 
 
-#Discovered ODEs (4-dimensional system)
+# Discovered ODEs (4-dimensional system)
 x0' = -0.154 x0 - 1.774 x1 + 2.072 x2 - 0.146 x3 
     + 0.902 x0² - 5.714 x0x1 + 6.499 x0x2 - 3.241 x0x3
     + 4.215 x1² - 8.631 x1x2 + 7.099 x1x3
