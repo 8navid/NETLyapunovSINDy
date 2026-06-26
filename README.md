@@ -28,7 +28,7 @@ matplotlib>=3.4.0
 pysindy>=1.7.0
 nolds>=0.5.2
 scikit-learn>=1.0.0
-```bash
+```
 
 
 # Run the full pipeline
